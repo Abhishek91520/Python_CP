@@ -97,3 +97,4 @@
 97.	Python Program to Remove Duplicate Element From a List
 98.	Python Program to Convert Bytes to a String
 99. Python Program to check whether string is anagram or not.
+100. Python Program for web scraping.
