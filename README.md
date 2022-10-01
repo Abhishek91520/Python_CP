@@ -96,3 +96,4 @@
 96.	Python Program to Count the Number of Occurrence of a Character in String
 97.	Python Program to Remove Duplicate Element From a List
 98.	Python Program to Convert Bytes to a String
+99. Python Program to check whether string is anagram or not.
