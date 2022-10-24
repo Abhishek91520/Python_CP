@@ -1,4 +1,40 @@
+# Python Codes
+
+Hacktoberfest-2022 repository consisting of programs based on Python.
+
+# This repository seeks to encourage newcomers to coding with their first productive pull request and open source contribution. 🥳
+
+✨ You are welcome to use this project as a starting point for your first contribution to a GitHub open-source project. Make your first pull request to a public repository.
+
+✨ Get involved in the open-source community to earn some cool swag during Hacktoberfest.
+
+# Guidelines
+
+# Steps For Contribution
+
+0. Star 
+
+1. Fork
+
+2. Clone the forked repository
+```bash
+git clone https://github.com/<your-github-username>/Python_CP.git
+```
+
+3. Solve any of the unsolved question in python (.py) and save it in the repository.
+
+4. Push your work back up to your fork
+
+5. Submit a Pull request so that we can review your solution.
+
+6. If your solution is valid, we will merge your pull request.
+
+7. Congratulations🎉🎉 You just made your first contribution.
+
+# Programming Questions
+
 ***FILENAME FORMATE programno_python.py***
+
 1.	Python Program to Print Hello world!
 2.	Python Program to Add Two Numbers
 3.	Python Program to Find the Square Root
